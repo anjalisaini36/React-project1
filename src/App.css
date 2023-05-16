@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,87 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.navbar-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menu-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-between;
+}
+/* .menu-item {
+  margin: 18px;
+} */
+.menu-div{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.header-class{
+display: flex;
+justify-content:space-around
+}
+
+.heading-class{
+
+width: 40%;
+margin-top: 50px;
+text-align: center;
+}
+
+.heading1-clas{
+  color: dodgerblue;
+} 
+
+.btn-1{
+  background-color: dodgerblue;
+}
+
+/* .imgDiv{
+
+} */
+
+/* .image-class{
+  display: flex;
+  height: 450px;
+  width: 630px;
+  justify-content: center;
+  
+} */
+
+.section-2{
+  margin-top: 30px;
+}
+
+.para-class{
+  margin-left: 20px;
+  text-decoration: solid;
+}
+
+.logo-class{
+  display: flex;
+  justify-content: space-around;
+}
+
+.heading3-class{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.card-img{
+  height: 350px;
+  width: 280px;
+}
+
+.card-section{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
 }
